@@ -1,4 +1,6 @@
-# FABLE - The F# compiler that emits JavaScript you can be proud of!
+# FABLE
+
+### The F# compiler that emits JavaScript you can be proud of!
 
 The project has moved to a separate organization. This project provides redirect for old Fable web site.
 
